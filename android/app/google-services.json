@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "31062908318",
+    "firebase_url": "https://alltechnologyshop-76414.firebaseio.com",
+    "project_id": "alltechnologyshop-76414",
+    "storage_bucket": "alltechnologyshop-76414.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31062908318:android:d96c6c9f67f1b21dd14a8f",
+        "android_client_info": {
+          "package_name": "com.example.alltechnologyshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31062908318-f0158j46o0njiq37annd00t4lfrh0gga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG6O7P2UYA0W6EWlVX_mEED9hvwcxAGNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31062908318-f0158j46o0njiq37annd00t4lfrh0gga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
